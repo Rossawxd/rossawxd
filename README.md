@@ -14,4 +14,6 @@ Servers : https://discord.gg/marino
 
 📊 GitHub Stats:
 
+![Reocuk's github stats](https://github-readme-stats.vercel.app/api?username=Reocuk&show_icons=true&theme=radical)
+
 ![image](https://camo.githubusercontent.com/01396b7ea52fbbac89f210862456452dde31c2b013354d8c5156d0bdb23d0978/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7265636570656673616e657369267468656d653d7261646963616c)
