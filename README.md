@@ -22,16 +22,17 @@ Servers : https://discord.gg/marino
 
 # Rossaw
  
-class Rossaw {
+class ravgar {
     constructor(options) {
-        this.name = "Mert",
+        this.name = "Esref",
         this.sex = "man",
-        this.length = "1.85",
+        this.length = "180",
         this.type = "human",
-        this.job = "Bot/Kod Developer",
-        this.age = "18",
-        this.discord.tag = "✰ Rossaw#1000"
+        this.job = "developer",
+        this.weight = "78",
+        this.age = "19",
+        this.discord.tag = "ravgar#3210"
     };
 }
 
-module.exports = rossaw
+module.exports = ravgar
