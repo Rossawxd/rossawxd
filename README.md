@@ -22,17 +22,4 @@ Servers : https://discord.gg/marino
 
 # Rossaw
  
-class ravgar {
-    constructor(options) {
-        this.name = "Esref",
-        this.sex = "man",
-        this.length = "180",
-        this.type = "human",
-        this.job = "developer",
-        this.weight = "78",
-        this.age = "19",
-        this.discord.tag = "ravgar#3210"
-    };
-}
-
-module.exports = ravgar
+![image](https://cdn.discordapp.com/attachments/1015383929085251634/1042448852092989501/image.png)
